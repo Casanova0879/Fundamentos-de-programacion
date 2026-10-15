@@ -10,7 +10,7 @@ public class ejercicio17 {
          
          System.out.println(" El doble de tu edad es: " + numero1 * 2);
          System.out.print(" El triple de tu edad es: " + numero1 * 3);
-    
+    sc.close();
 
     }
 
