@@ -1,4 +1,4 @@
-package Bloque1.tema03;
+package Bloque1.tema03.Ejerciciost3;
 
 import java.util.Scanner;
 
