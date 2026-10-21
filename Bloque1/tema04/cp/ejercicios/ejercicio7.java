@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class ejercicio7 {
     public static void main(String[] args) {
         
-    }
+    
 
     Scanner sc = new Scanner(System.in);
 
@@ -19,6 +19,6 @@ public class ejercicio7 {
 
         System.out.println("¿Puede sacarse el carnet? " + puedeSacarseCarnet);
 
-        sc.close()
-
+        sc.close();
+  }
 }
