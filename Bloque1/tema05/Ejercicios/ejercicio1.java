@@ -1,0 +1,20 @@
+package Bloque1.tema05.Ejercicios;
+
+import java.util.Scanner;
+
+public class ejercicio1 {
+   public static void main(String[] args) {
+    Scanner sc = new Scanner(System.in);
+
+    System.out.print("Número: " );
+    int numero = sc.nextInt();
+
+    if (numero>=0){
+        System.out.println("Positivo ");
+    } else {
+        System.out.println("Negativo ");
+
+    }
+
+   } 
+}
