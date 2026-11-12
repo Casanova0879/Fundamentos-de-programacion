@@ -25,7 +25,7 @@ public class ejercicio3 {
     }
     else
         retención= 30;
-    System.out.println(" Tu retención es del: "+ retención+" %");
+    System.out.println(" Tu retención es del: "+ retención +" %");
         
         }
         
