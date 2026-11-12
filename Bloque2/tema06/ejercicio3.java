@@ -11,19 +11,19 @@ public class ejercicio3 {
 
     double retención = 0;
     if (sueldo <=12000){
-        System.out.println("Ganas" +sueldo + "tu porcentaje de retención es del 0%");
+        System.out.println("Ganas " +sueldo + " tu porcentaje de retención es del 0%");
     }
         else if (sueldo >12000 && sueldo <=25000){
-            System.out.println("Ganas" + sueldo + "tu portentaje de retención es del 10%");
+            System.out.println("Ganas " + sueldo + "  tu portentaje de retención es del 10% ");
             
             
         }
-        else if (sueldo <40000 &&
-            System.out.println("Ganas " + sueldo + " tu portentaje de reteción es del 20%");
+        else if (sueldo > 250000 && sueldo <40000){4
+            System.out.println("Ganas " + sueldo + " tu portentaje de reteción es del 20% ");
         }
         
         else{
-
+        System.out.println(" Ganas " +sueldo + " tu porcentaje de retención es del 30% ");
         }
     }
         
